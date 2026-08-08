@@ -1,0 +1,6 @@
+{
+  "name": "AppScreen Studio",
+  "description": "Interactive multi-screen web application builder with hotlinked visual assets, layout presets, custom themes, and AI screen generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
